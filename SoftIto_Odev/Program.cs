@@ -82,7 +82,7 @@ namespace SoftIto_Odev
             //Console.WriteLine("Sayıyı giriniz:");
             //int sayi = int.Parse(Console.ReadLine());
             //int i = 1;
-            //while (i <= sayi)
+            //while (i <= sayi)    
             //{
             //    int j = sayi;
 
