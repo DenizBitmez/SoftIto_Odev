@@ -63,7 +63,7 @@ namespace SoftIto_Odev
             #region odev3
             //Console.WriteLine("Sayı giriniz:");
             //int sayi= int.Parse(Console.ReadLine());
-            //int i = 0;
+            //int i = 0;         
 
             //while (i<sayi)
             //{
