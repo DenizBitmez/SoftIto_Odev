@@ -1,0 +1,7 @@
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\SoftIto_Odev\bin\Debug\SoftIto_Odev.exe.config
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\SoftIto_Odev\bin\Debug\SoftIto_Odev.exe
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\SoftIto_Odev\bin\Debug\SoftIto_Odev.pdb
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\SoftIto_Odev\obj\Debug\SoftIto_Odev.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\SoftIto_Odev\obj\Debug\SoftIto_Odev.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\SoftIto_Odev\obj\Debug\SoftIto_Odev.exe
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\SoftIto_Odev\obj\Debug\SoftIto_Odev.pdb
