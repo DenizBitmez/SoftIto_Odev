@@ -1,0 +1,7 @@
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\Menu_Otomasyonu1\bin\Debug\Menu_Otomasyonu1.exe.config
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\Menu_Otomasyonu1\bin\Debug\Menu_Otomasyonu1.exe
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\Menu_Otomasyonu1\bin\Debug\Menu_Otomasyonu1.pdb
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\Menu_Otomasyonu1\obj\Debug\Menu_Otomasyonu1.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\Menu_Otomasyonu1\obj\Debug\Menu_Otomasyonu1.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\Menu_Otomasyonu1\obj\Debug\Menu_Otomasyonu1.exe
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\Menu_Otomasyonu1\obj\Debug\Menu_Otomasyonu1.pdb

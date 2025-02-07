@@ -1,0 +1,7 @@
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\ConsoleApp1\obj\Debug\Menu_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\ConsoleApp1\obj\Debug\Menu_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\deniz\OneDrive\Masaüstü\SoftIto_Odev\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
